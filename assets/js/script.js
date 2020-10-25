@@ -10,10 +10,6 @@ function displayDate() {
     $currentDay.text(setDate); 
 }
 
-// WHEN I scroll down
-// THEN I am presented with timeblocks for standard business hours - HTML grid
-
-
 // WHEN I view the timeblocks for that day 
 // THEN each timeblock is color coded to indicate whether it is in the past, present, or future - red, yellow, green bootstrap
 
